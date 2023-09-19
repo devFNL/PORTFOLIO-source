@@ -1,5 +1,8 @@
 import React from "react";
 import Project from "./Project";
+import proj1 from "/proj1.png";
+import proj2 from "/proj2.png";
+import inDev from "/indev.png";
 
 const Projects = () => {
   return (
@@ -8,25 +11,25 @@ const Projects = () => {
         projName="Listify"
         deployLink={"https://listify-psi.vercel.app/"}
         sourceLink={"https://github.com/devFNL/toDo"}
-        projImg={"/media/proj1.png"}
+        projImg={proj1}
       />
       <Project
         projName="Libradmin"
         deployLink={"https://libradmin.onrender.com/"}
         sourceLink={"https://github.com/devFNL/libradmin-source"}
-        projImg={"/media/proj2.png"}
+        projImg={proj2}
       />
       <Project
         projName="e-Commerce"
         deployLink={""}
         sourceLink={"https://github.com/devFNL/ecommerce"}
-        projImg={"/media/indev.png"}
+        projImg={inDev}
       />
       <Project
         projName="no-idea"
         deployLink={""}
         sourceLink={""}
-        projImg={"/media/indev.png"}
+        projImg={inDev}
       />
     </div>
   );

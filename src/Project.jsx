@@ -10,7 +10,7 @@ const Project = ({ projName, deployLink, sourceLink, projImg }) => {
             src={projImg}
             alt="project image"
             width={"150px"}
-            height={"120px"}
+            height={"150px"}
           />
         </a>
         <a href={sourceLink} target="blank_">

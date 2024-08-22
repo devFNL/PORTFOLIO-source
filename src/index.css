@@ -39,7 +39,7 @@ h1 {
 h1 span {
   text-align: right;
   font-size: 2.5rem;
-  color: rgb(58, 126, 110);
+  color: #a3d9d9;
 }
 
 .contact {
@@ -52,8 +52,8 @@ h1 span {
   flex-wrap: wrap;
   justify-content: space-around;
   margin-bottom: 1.5rem;
-  border-top: 0.2rem solid rgb(58, 126, 110);
-  border-bottom: 0.2rem solid rgb(58, 126, 110);
+  border-top: 0.2rem solid #a3d9d9;
+  border-bottom: 0.2rem solid #a3d9d9;
 }
 
 .contact p {
@@ -95,12 +95,12 @@ h1 span {
   justify-content: center;
   flex-wrap: wrap;
   flex-direction: row;
-  border-top: 0.2rem solid rgb(58, 126, 110);
+  border-top: 0.2rem solid #a3d9d9;
 }
 
 .projects article {
   margin: 1rem auto;
-  border-bottom: 0.2rem solid rgb(58, 126, 110);
+  border-bottom: 0.2rem solid #a3d9d9;
 }
 
 .projects img {

@@ -11,8 +11,8 @@ const Stack = ({ props }) => {
       <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <Icon link="https://cdn.worldvectorlogo.com/logos/redux.svg" />
       <Icon link="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
-      <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-      <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+      <Icon link="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
+      <Icon link="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
       <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       <Icon link="https://cdn.worldvectorlogo.com/logos/hibernate.svg" />
@@ -21,6 +21,7 @@ const Stack = ({ props }) => {
       <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <Icon link="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" />
       <Icon link="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
     </div>
   );
 };
